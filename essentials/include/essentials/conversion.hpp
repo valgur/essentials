@@ -7,6 +7,7 @@
 #define CONVERSION_99CAC61B_DD8A_43E2_8612_0F42873A5741
 
 
+#include <cstdint>
 #include <string>
 #include <sstream>
 #include <limits>
